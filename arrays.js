@@ -5,7 +5,8 @@ var chocolateBars = [
   `skittles`];
 
 function addElementToBeginningOfArray(array, element){
-  //
+    chocolateBars.unshift(`foo`, 1);
+  chocolateBars.push(`foo`, 1);
   array(n).to.deeply.equal((`foo`,1));
   
   //if (addElementToBeginningOfArray([1],`foo`) === [`foo`, 1]);
