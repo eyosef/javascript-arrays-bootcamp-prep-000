@@ -5,7 +5,7 @@ var chocolateBars = [
   `skittles`];
   
   
-8 = a 10 = b 
+a = 8 10 = b 
   
   
   function add(a, b){
