@@ -14,10 +14,8 @@ b = 10
    return a + b
   }
   
-addElementToBeginningOfArray(chcolateBars,'foo')
 function addElementToBeginningOfArray(array, element){
-  chocolateBars.unshift(`foo`, 1);
-  array
+  array.unshift(element);
   
   // chocolateBars.push(`foo`, 1);
   // //if (addElementToBeginningOfArray([1],`foo`) === [`foo`, 1]);
