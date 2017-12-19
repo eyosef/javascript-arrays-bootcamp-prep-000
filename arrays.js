@@ -11,7 +11,7 @@ b = 10
   
   function add(a, b){
   
-   return 12 + 2
+   return a + b
   }
   
 
