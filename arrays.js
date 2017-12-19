@@ -4,10 +4,12 @@ var chocolateBars = [
   `kitkat`,
   `skittles`];
   
-  function add(a, b){
-    
+  
   a = 8 
   b = 10 
+  
+  
+  function add(a, b){
   
    return 12 + 2
   }
