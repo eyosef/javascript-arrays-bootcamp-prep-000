@@ -5,11 +5,11 @@ var chocolateBars = [
   `skittles`];
 
 function addElementToBeginningOfArray(array, element){
-  chocolateBars.unshift(`foo`, 1);
-  chocolateBars.push(`foo`, 1);
+  // chocolateBars.unshift(`foo`, 1);
+  // chocolateBars.push(`foo`, 1);
   
-  //if (addElementToBeginningOfArray([1],`foo`) === [`foo`, 1]);
-  return chocolateBars;
+  // //if (addElementToBeginningOfArray([1],`foo`) === [`foo`, 1]);
+  // return chocolateBars;
 }
 
 
