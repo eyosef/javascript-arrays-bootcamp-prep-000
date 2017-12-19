@@ -26,6 +26,8 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 
 function destructivelyRemoveElementFromBeginningOfArray(array){}
 
+function removeElementFromBeginningOfArray(array){}
+
 function addElementToEndOfArray(array, element){}
 
 function destructivelyAddElementToEndOfArray(array, element){}
