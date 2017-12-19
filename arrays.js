@@ -13,7 +13,6 @@ function addElementToBeginningOfArray(array, element){
 }
 
 
-
 function destructivelyAddElementToBeginningOfArray(array, element){
   chocolateBars.unshift(`hershey`);
   chocolateBars.push(`toblerone`);
