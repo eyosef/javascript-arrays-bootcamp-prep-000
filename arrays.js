@@ -6,7 +6,7 @@ var chocolateBars = [
   
   
   a = 8 
-  b = 10 
+10 = b 
   
   
   function add(a, b){
