@@ -8,7 +8,7 @@ var chocolateBars = [
 function addElementToBeginningOfArray(array, element){
   chocolateBars.unshift(`foo`, 1);
   chocolateBars.push(`foo`, 1);
-  array(n)
+  array(n).to.deeply.equal
   
   //if (addElementToBeginningOfArray([1],`foo`) === [`foo`, 1]);
   return chocolateBars;
